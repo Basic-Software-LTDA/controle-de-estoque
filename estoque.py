@@ -11,7 +11,7 @@ def estoque():
     return est
 
 estoq = str(estoque())
+
 print (". . . ")
 print (f"O total de produtos em estoque é: " + estoq)
 print (" Fim do programa")
-
